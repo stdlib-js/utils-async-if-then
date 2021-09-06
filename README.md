@@ -226,6 +226,21 @@ next();
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/async/if-else`][@stdlib/utils/async/if-else]: if a predicate function returns a truthy value, return `x`; otherwise, return `y`.
+-   [`@stdlib/utils/if-then`][@stdlib/utils/if-then]: if a condition is truthy, invoke `x`; otherwise, invoke `y`.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -284,6 +299,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-async-if-then/main/LICENSE
 
 [@stdlib/utils/async/if-else]: https://github.com/stdlib-js/utils-async-if-else
+
+<!-- <related-links> -->
+
+[@stdlib/utils/async/if-else]: https://github.com/stdlib-js/utils-async-if-else
+
+[@stdlib/utils/if-then]: https://github.com/stdlib-js/utils-if-then
+
+<!-- </related-links> -->
 
 </section>
 
