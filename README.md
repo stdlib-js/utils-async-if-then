@@ -20,7 +20,7 @@ limitations under the License.
 
 # ifthenAsync
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > If a predicate function returns a truthy value, invoke `x`; otherwise, invoke `y`.
 
@@ -234,8 +234,8 @@ next();
 
 ## See Also
 
--   [`@stdlib/utils/async/if-else`][@stdlib/utils/async/if-else]: if a predicate function returns a truthy value, return `x`; otherwise, return `y`.
--   [`@stdlib/utils/if-then`][@stdlib/utils/if-then]: if a condition is truthy, invoke `x`; otherwise, invoke `y`.
+-   <span class="package-name">[`@stdlib/utils/async/if-else`][@stdlib/utils/async/if-else]</span><span class="delimiter">: </span><span class="description">if a predicate function returns a truthy value, return `x`; otherwise, return `y`.</span>
+-   <span class="package-name">[`@stdlib/utils/if-then`][@stdlib/utils/if-then]</span><span class="delimiter">: </span><span class="description">if a condition is truthy, invoke `x`; otherwise, invoke `y`.</span>
 
 </section>
 
@@ -286,8 +286,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-async-if-then/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-async-if-then?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-async-if-then.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-async-if-then/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
