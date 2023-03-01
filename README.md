@@ -242,8 +242,8 @@ next();
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils/async/if-else`][@stdlib/utils/async/if-else]</span><span class="delimiter">: </span><span class="description">if a predicate function returns a truthy value, return `x`; otherwise, return `y`.</span>
--   <span class="package-name">[`@stdlib/utils/if-then`][@stdlib/utils/if-then]</span><span class="delimiter">: </span><span class="description">if a condition is truthy, invoke `x`; otherwise, invoke `y`.</span>
+-   <span class="package-name">[`@stdlib/utils-async/if-else`][@stdlib/utils/async/if-else]</span><span class="delimiter">: </span><span class="description">if a predicate function returns a truthy value, return `x`; otherwise, return `y`.</span>
+-   <span class="package-name">[`@stdlib/utils-if-then`][@stdlib/utils/if-then]</span><span class="delimiter">: </span><span class="description">if a condition is truthy, invoke `x`; otherwise, invoke `y`.</span>
 
 </section>
 
