@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ifthenAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-if-then@esm/index.mjs';
+import ifthenAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-if-then@v0.1.1-esm/index.mjs';
 ```
 
 #### ifthenAsync( predicate, x, y, done )
@@ -178,7 +178,7 @@ ifthenAsync( predicate, x, y, done );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import ceil from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil@esm/index.mjs';
 import repeatString from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-repeat@esm/index.mjs';
-import ifthenAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-if-then@esm/index.mjs';
+import ifthenAsync from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-if-then@v0.1.1-esm/index.mjs';
 
 var i;
 
