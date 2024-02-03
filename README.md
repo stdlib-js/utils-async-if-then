@@ -338,8 +338,6 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/utils/async/if-else]: https://github.com/stdlib-js/utils-async-if-else
-
 [@stdlib/utils/if-then]: https://github.com/stdlib-js/utils-if-then
 
 <!-- </related-links> -->
